@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  apiUrl: "http://api-dev.brainpundits.com:7077/v1/"
+  apiUrl: "https://api.brainpundits.com/v1/"
 };
